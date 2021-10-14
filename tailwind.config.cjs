@@ -6,15 +6,10 @@ const config = {
         extend: {},
     },
 
-    plugins: [
-        require('@tailwindcss/typography'),
-        require('daisyui')
-    ],
+    plugins: [require('@tailwindcss/typography'), require('daisyui')],
 
     daisyui: {
-        themes: [
-            'corporate'
-        ],
+        themes: ['corporate'],
     },
 };
 
