@@ -16,7 +16,7 @@
         </svg>
         <p>Human Library Chicago.<br />Copyright &copy; {year}, Intersection Chicago.</p>
     </div>
-    <div>
+    <!-- <div>
         <span class="footer-title">Services</span>
     </div>
     <div>
@@ -24,5 +24,5 @@
     </div>
     <div>
         <span class="footer-title">Legal</span>
-    </div>
+    </div> -->
 </footer>

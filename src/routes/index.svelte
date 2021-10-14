@@ -2,7 +2,7 @@
     <title>Human Library Chicago</title>
 </svelte:head>
 
-<section
+<!-- <section
     class="hero min-h-screen"
     style="background-image: url(&quot;https://picsum.photos/id/1005/1600/1400&quot;);"
 >
@@ -17,7 +17,7 @@
             <button class="btn btn-primary">Get Started</button>
         </div>
     </div>
-</section>
+</section> -->
 <article class="container p-10 prose lg:prose-xl">
     <h1>
         A Human Library is an event that aims to create dialogue and understanding between people.

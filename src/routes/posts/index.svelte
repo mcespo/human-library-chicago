@@ -2,7 +2,7 @@
     const paths = import.meta.glob('./*.svx');
     let body = [];
     for (const path in paths) {
-        body.push(posts[path]().then(({ metadata }) => metadata));
+        body.push(paths[path]().then(({ metadata }) => metadata));
     }
     /**
      * @type {import('@sveltejs/kit').Load}
