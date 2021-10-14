@@ -4,6 +4,9 @@
     for (const path in posts) {
         body.push(posts[path]().then(({ metadata }) => metadata));
     }
+    /**
+     * @type {import('@sveltejs/kit').Load}
+     */
     export async function load({ page, fetch }) {
         const posts = await Promise.all(body);
         return {
