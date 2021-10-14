@@ -1,7 +1,7 @@
 <script context="module" lang="js">
-    const posts = import.meta.glob('./*.svx');
+    const paths = import.meta.glob('./*.svx');
     let body = [];
-    for (const path in posts) {
+    for (const path in paths) {
         body.push(posts[path]().then(({ metadata }) => metadata));
     }
     /**
