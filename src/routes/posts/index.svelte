@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-    <title>Blog</title>
+    <title>Posts</title>
 </svelte:head>
 
 <!--Title-->

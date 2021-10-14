@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Human Library Chicago</title>
+</svelte:head>
+
 <section
     class="hero min-h-screen"
     style="background-image: url(&quot;https://picsum.photos/id/1005/1600/1400&quot;);"

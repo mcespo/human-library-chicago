@@ -1,0 +1,24 @@
+---
+title: 'Printers Row Lit Fest'
+slug: 'printers_row_lit_fest_2014'
+outline: 'A brief reference to the technologies used to create this website'
+tags: [ { name: 'Svelte Kit', link: 'https://kit.svelte.dev/' }, { name: 'Tailwind', link: 'https://www.tailwindcss.com' }, { name: 'Markdown', link: 'https://www.markdownguide.org/'} ]
+published_at: '3 April 2021'
+---
+
+# Printers Row Lit Fest
+
+The first Human Library Chicago event took place on June 7th & 8th in 2014 at Printers Row Lit Fest. The two day event attracted more than 100 participants. Our 10 ‘books’ included the titles of HIV positive, Substance Use Disorder, Vegan, Bi-racial, Feminist, Kinky, Autism Spectrum Disorder, Physical Disability, Atheist, and Venezuelan Expatriate.
+
+Our first event was widely praised by participants. Here’s what people thought of their experience:
+
+“Humanizing our biases has a very powerful impact. This experience underscored my belief that the complexity of the human experience humbles us all and likens us.”
+
+“I learned that courage and bravery is every where and these open books are amazing human beings.”
+
+“This experience was incredibly insightful. I’m so thankful to have had this experience.”
+
+Couldn’t make it? Experience the Printers Row event by watching the video below!
+
+<iframe title="Printers row lit fest" src="https://player.vimeo.com/video/99007751?h=cbc35f3c24" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/99007751">Human library Chicago</a> from <a href="https://vimeo.com/user15697457">Zongwei Li</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

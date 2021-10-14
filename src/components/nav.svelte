@@ -1,4 +1,4 @@
-<div class="navbar shadow-lg bg-neutral text-neutral-content sticky top-0 z-10">
+<nav class="navbar shadow-lg bg-neutral text-neutral-content sticky top-0 z-10">
     <div class="flex-none px-2 mx-2">
         <a href="/">
             <svg
@@ -26,4 +26,4 @@
             <a href="#" class="btn btn-ghost btn-sm rounded-btn">Contact</a> -->
         </div>
     </div>
-</div>
+</nav>
